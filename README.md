@@ -112,14 +112,24 @@ Distributed under the Apache License 2.0. See [LICENSE](./LICENSE) for more info
 
 <a id="ibnn-reference">[1]</a>
 Raul Mohedano, Thomas Batard, Erik Velasco-Salido, Ramsses De Los Santos Mendoza, Jorge H. Martínez, Stacey Levine, Marcelo Bertalmío.
-Updating the standard neuron model in artificial neural networks.
-Preprint as [arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX), 2026.
+*Updating the standard neuron model in artificial neural networks.*
+Preprint as [arXiv:2605.30370](https://arxiv.org/abs/2605.30370), 2026.
+
+## Acknowledgements
+
+This work has been supported by:
+- Programa Fundamentos (ref. VIS4NN) of Fundación BBVA 2022 (Spain);
+- Programa Tecnologías (ref. TEC 2024/COM-322) of Comunidad de Madrid (Spain);
+- Proyectos de Generación de Conocimiento 2024 (ref. PID2024-161841NB-I00) of Ministerio de Ciencia,
+Innovación y Universidades (Spain); and
+- Programa Momentum (ref. MMT24-IO-02) of Consejo Superior de Investigaciones Científicas (Spain),
+funded by European Commission–NextGenerationEU through the Spanish Recovery, Transformation and Resilience Plan.
 
 
 ## Other references and acknowledgements
 
 <a id="torchdeq-reference">[2]</a>
-Zhengyang Geng and J. Zico Kolter. TorchDEQ: A Library for Deep Equilibrium Models.
+Zhengyang Geng and J. Zico Kolter. *TorchDEQ: A Library for Deep Equilibrium Models.*
 GitHub repository ([link](https://github.com/locuslab/torchdeq)), 2023.
 
 Moreover, we would like to specially thank [PyTorch](https://pytorch.org/) for their open source environment,
